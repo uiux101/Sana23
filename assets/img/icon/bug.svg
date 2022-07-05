@@ -1,0 +1,14 @@
+<svg id="svgexport-5_4_" data-name="svgexport-5(4)" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <g id="Group_1" data-name="Group 1">
+    <path id="Path_1" data-name="Path 1" d="M421,331V240H391v61H361V240H301V225a44.809,44.809,0,0,0-18.01-35.779l28.616-28.616-21.211-21.211-34.4,34.4-34.4-34.4-21.211,21.211,28.616,28.616A44.809,44.809,0,0,0,211,225v15H151v61H121V240H91v91h60v30H91v30h60v15a103.656,103.656,0,0,0,1.516,15H91v91h30V451h40.532c16.921,35.345,52.742,61,94.468,61s77.547-25.655,94.468-61H391v61h30V421H359.484A103.656,103.656,0,0,0,361,406V391h60V361H361V331Z" fill="#fff"/>
+    <path id="Path_2" data-name="Path 2" d="M61,0H91V90H61Z" fill="#fff" opacity="0.55"/>
+    <path id="Path_3" data-name="Path 3" d="M241,0h30V90H241Z" fill="#fff" opacity="0.55"/>
+    <path id="Path_4" data-name="Path 4" d="M421,0h30V90H421Z" fill="#fff" opacity="0.55"/>
+    <path id="Path_5" data-name="Path 5" d="M211,0H121V90h90ZM181,60H151V30h30Z" fill="#fff" opacity="0.55"/>
+    <path id="Path_6" data-name="Path 6" d="M151,120H61v90h90Zm-30,60H91V150h30Z" fill="#fff" opacity="0.55"/>
+    <path id="Path_7" data-name="Path 7" d="M391,0H301V90h90ZM361,60H331V30h30Z" fill="#fff" opacity="0.55"/>
+    <path id="Path_8" data-name="Path 8" d="M361,210h90V120H361Zm30-60h30v30H391Z" fill="#fff" opacity="0.55"/>
+    <path id="Path_9" data-name="Path 9" d="M481,120h31v90H481Z" fill="#fff" opacity="0.55"/>
+    <path id="Path_10" data-name="Path 10" d="M0,120H31v90H0Z" fill="#fff" opacity="0.55"/>
+  </g>
+</svg>
