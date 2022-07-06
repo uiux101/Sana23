@@ -125,6 +125,9 @@ img {
   #particles-js {
     display: none;
   }
+  .project-details {
+    padding-top: 150px !important;
+  }
 }
 
 .title_sections {
@@ -436,9 +439,8 @@ img {
 .preloader {
   position: fixed;
   top: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 100vh;
   background-color: #0b2238;
   overflow: hidden;
   z-index: 999999;
@@ -28215,8 +28217,9 @@ footer .logo img {
 }
 
 .project-details .mockup {
-  max-width: 300px;
+  max-width: 250px;
   width: 100%;
+  margin-left:50px
 }
 
 .project-details .flex-centered {

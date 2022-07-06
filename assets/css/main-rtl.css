@@ -126,7 +126,7 @@ img {
     display: none;
   }
   .project-details {
-    padding-top: 150px;
+    padding-top: 150px !important;
   }
 }
 
@@ -436,9 +436,8 @@ img {
 .preloader {
   position: fixed;
   top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 100vh;
   background-color: #0b2238;
   overflow: hidden;
   z-index: 999999;
@@ -446,6 +445,7 @@ img {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
 }
 
 .preloader-shape {
@@ -28165,7 +28165,6 @@ footer .logo img {
 .about_section .logo_items .items .item-client img {
   opacity: 0.5;
 }
-
 .about_section .logo_items .items {
   display: flex;
   justify-content: center;
@@ -28173,7 +28172,6 @@ footer .logo img {
   flex-wrap: wrap;
   gap: 50px;
 }
-
 .project-details {
   position: relative;
   min-height: 100vh;
@@ -28181,7 +28179,6 @@ footer .logo img {
   align-items: center;
   padding-top: 90px;
 }
-
 .project-details::before {
   content: "";
   position: absolute;
@@ -28194,8 +28191,9 @@ footer .logo img {
 }
 
 .project-details .mockup {
-  max-width: 300px;
+  max-width: 250px;
   width: 100%;
+  margin-right: 50px;
 }
 
 .project-details .flex-centered {
